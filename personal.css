@@ -1,0 +1,112 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 150%;
+}
+.h11
+{margin-top: 20px;
+    text-align: center;
+    margin: 70px;
+    font-size: 5.26rem;
+    font-family: cursive;
+    color:dodgerblue;
+}
+.mountain
+{color: skyblue;
+    size: 60%;
+    width: 100rem;
+    display: block;
+    position: relative;
+    margin: 0 590px;
+}
+.container
+{
+    background-color:#66bfbf;
+    width: 100%;
+}
+h2,h3{
+    text-align: center;
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+}
+.p4{
+    text-align: center;
+    font-size: 2.8rem;
+}
+.middle-container{
+    margin-bottom: 20px;
+
+}
+.bottom-container
+{
+display: block;
+
+background-color: #66bfbf;
+}a{
+ position: relative;
+    margin-left: 290px;
+    color:black;
+    text-decoration: none;
+    font-size:2.4rem;
+}
+.links1
+{
+   
+margin-left: 14%;
+
+
+}
+
+.me
+{margin-top: 30px;
+    position: relative;
+    margin-left: 44%;
+    width: 18%;
+
+border-radius: 100%;
+}
+.links1:hover
+{
+    width: 10%;
+    height: 5%;
+    color: coral;
+}
+
+.web
+{
+    position: relative;
+    margin-left: 48%;
+}
+
+.btn{
+    color:rgb(255, 254, 254);
+    margin-bottom: 20%;
+    margin-left: 43%;
+border-style: solid;
+border-radius: 20%;
+background-color: #7666bf;
+    border-radius: 30%;
+    
+}
+.btn:hover
+{
+    color: coral;
+}
+.footer-link
+{color: black;
+    align-content: center;
+    margin: 13%;
+}
+.footer-link:hover
+{
+    color: coral;
+}
+hr{
+    
+    border-style: dotted;
+    border-top: 0;
+    width: 30%;
+    
+
+}
